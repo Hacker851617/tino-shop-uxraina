@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Tino Shop UXraina</string>
+    <string name="title_activity_main">Tino Shop UXraina</string>
+    <string name="package_name">mg.tinoshop.uxraina</string>
+    <string name="custom_url_scheme">mg.tinoshop.uxraina</string>
+</resources>

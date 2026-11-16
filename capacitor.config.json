@@ -1,0 +1,8 @@
+{
+  "appId": "mg.tinoshop.uxraina",
+  "appName": "Tino Shop UXraina",
+  "webDir": "dist",
+  "server": {
+    "cleartext": true
+  }
+}
