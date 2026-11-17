@@ -171,7 +171,7 @@ export default function App() {
             contact: cleanContact,
             password: authForm.password
           })
-        });
+        }); 
         const data = await res.json();
         if (!res.ok) throw new Error(data.detail || "Diso ny fidirana.");
         setCurrentUser(data);
