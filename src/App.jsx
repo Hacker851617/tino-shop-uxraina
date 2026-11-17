@@ -6,7 +6,7 @@ import {
   User, Lock, Mail, LogOut, Eye, EyeOff, MessageSquare, Send
 } from 'lucide-react';
 
-const API_URL = "http://9.9.9.13:8000/api";
+const API_URL = const API_URL = import.meta.env.VITE_API_URL || "https://tino-shop-uxraina-1.onrender.com";
 
 const TinoLogo = ({ size = "w-10 h-10" }) => (
   <div className="flex items-center gap-2.5 select-none">
